@@ -1,0 +1,4017 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="current_Migros_branches" id="current_Migros_branches">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Index" type="string"></SimpleField>
+	<SimpleField name="keyword" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Zip Code" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="category" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="latlong" type="string"></SimpleField>
+</Schema>
+<Folder><name>current_Migros_branches</name>
+  <Placemark>
+	<name>Migros Sport- und Erlebnispark Milandia</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Index">0</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Grossriet 1</SimpleData>
+		<SimpleData name="Zip Code">8606</SimpleData>
+		<SimpleData name="City">Greifensee</SimpleData>
+		<SimpleData name="category">leisure</SimpleData>
+		<SimpleData name="type">sports_centre</SimpleData>
+		<SimpleData name="latlong">47.37661865,8.672236056999548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67223605699955,47.37661865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Pensionskasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Index">1</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wiesenstrasse 15</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3995333,8.4425945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4425945,47.3995333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Adliswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Index">2</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Albisstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8134</SimpleData>
+		<SimpleData name="City">Adliswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3112966,8.5249665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5249665,47.3112966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Index">3</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Flughafen Zürich</SimpleData>
+		<SimpleData name="Zip Code">8302</SimpleData>
+		<SimpleData name="City">Kloten</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">information</SimpleData>
+		<SimpleData name="latlong">47.4862738,8.5317513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5317513,47.4862738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bassersdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Index">4</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Baltenswilerstrasse 5A</SimpleData>
+		<SimpleData name="Zip Code">8303</SimpleData>
+		<SimpleData name="City">Bassersdorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.44223475,8.62977203208451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.62977203208451,47.44223475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Birmensdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Index">5</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürcherstrasse 15</SimpleData>
+		<SimpleData name="Zip Code">8903</SimpleData>
+		<SimpleData name="City">Birmensdorf ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3542702,8.436700759775096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4367007597751,47.3542702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bülach Sonnenhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Index">6</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 28</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.520962,8.5398893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5398893,47.520962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bülach Süd</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Index">7</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Feldstrasse 89</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5093313,8.5411402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5411402,47.5093313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dielsdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Index">8</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Ruchwiesenstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8157</SimpleData>
+		<SimpleData name="City">Dielsdorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4804478,8.4643849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4643849,47.4804478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dietikon Limmatfeld</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Index">9</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Ueberlandstrasse 22</SimpleData>
+		<SimpleData name="Zip Code">8953</SimpleData>
+		<SimpleData name="City">Dietikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4092106,8.40508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.40508,47.4092106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dietikon Löwencenter</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Index">10</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 28</SimpleData>
+		<SimpleData name="Zip Code">8953</SimpleData>
+		<SimpleData name="City">Dietikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4050955,8.4020814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4020814,47.4050955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dietlikon Brunnenwiese</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Index">11</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pappelstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8305</SimpleData>
+		<SimpleData name="City">Dietlikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.419184900000005,8.621585212341838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.62158521234184,47.4191849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dübendorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Index">12</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Unterdorfstrasse 7</SimpleData>
+		<SimpleData name="Zip Code">8600</SimpleData>
+		<SimpleData name="City">Dübendorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3979897,8.617767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.617767,47.3979897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Dübendorf Hochbord</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Index">13</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Neugutstrasse 83</SimpleData>
+		<SimpleData name="Zip Code">8600</SimpleData>
+		<SimpleData name="City">Dübendorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4010731,8.6035456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6035456,47.4010731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Ebmatingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Index">14</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürichstrasse 108</SimpleData>
+		<SimpleData name="Zip Code">8123</SimpleData>
+		<SimpleData name="City">Ebmatingen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3508913,8.6431502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6431502,47.3508913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Egg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Index">15</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Gewerbestrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8132</SimpleData>
+		<SimpleData name="City">Egg b. Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">residential</SimpleData>
+		<SimpleData name="latlong">47.3031929,8.691774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.691774,47.3031929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Eglisau</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Index">16</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Sandgruebstrasse 1</SimpleData>
+		<SimpleData name="Zip Code">8193</SimpleData>
+		<SimpleData name="City">Eglisau</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5685953,8.5233655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5233655,47.5685953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Eglisau-Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Index">17</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bauelenzelgstrasse 16</SimpleData>
+		<SimpleData name="Zip Code">8193</SimpleData>
+		<SimpleData name="City">Eglisau</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5805116,8.5133669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5133669,47.5805116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Erlenbach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Index">18</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 42</SimpleData>
+		<SimpleData name="Zip Code">8703</SimpleData>
+		<SimpleData name="City">Erlenbach ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3070341,8.5904127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5904127,47.3070341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Fällanden</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Index">19</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Unterdorfstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8117</SimpleData>
+		<SimpleData name="City">Fällanden</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3738098,8.6410653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6410653,47.3738098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Glattzentrum</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Index">21</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">MP Glattzentrum</SimpleData>
+		<SimpleData name="Zip Code">8304</SimpleData>
+		<SimpleData name="City">Wallisellen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">mall</SimpleData>
+		<SimpleData name="latlong">47.40825445,8.595607545520465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.59560754552047,47.40825445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Gossau</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Index">22</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Zentrum 3</SimpleData>
+		<SimpleData name="Zip Code">8625</SimpleData>
+		<SimpleData name="City">Gossau ZH</SimpleData>
+		<SimpleData name="category">emergency</SimpleData>
+		<SimpleData name="type">key_depot</SimpleData>
+		<SimpleData name="latlong">47.3064612,8.7577571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7577571,47.3064612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Greifensee</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Index">23</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Burstwiesenstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8606</SimpleData>
+		<SimpleData name="City">Greifensee</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">residential</SimpleData>
+		<SimpleData name="latlong">47.3746236,8.6760117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6760117,47.3746236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Hombrechtikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Index">24</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rütistrasse 16</SimpleData>
+		<SimpleData name="Zip Code">8634</SimpleData>
+		<SimpleData name="City">Hombrechtikon</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.25221125,8.770133056949563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.77013305694956,47.25221125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Horgen Schinzenhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Index">25</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 24</SimpleData>
+		<SimpleData name="Zip Code">8810</SimpleData>
+		<SimpleData name="City">Horgen</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.2600702,8.597034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.597034,47.2600702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Kloten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Index">26</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kirchgasse 3</SimpleData>
+		<SimpleData name="Zip Code">8302</SimpleData>
+		<SimpleData name="City">Kloten</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.4503544,8.5823338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5823338,47.4503544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Küsnacht</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Index">27</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürichstrasse 149</SimpleData>
+		<SimpleData name="Zip Code">8700</SimpleData>
+		<SimpleData name="City">Küsnacht ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3184585,8.5819748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5819748,47.3184585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Leimbach Sihlbogen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Index">28</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Leimbachstrasse 23</SimpleData>
+		<SimpleData name="Zip Code">8041</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.3358275,8.5192422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5192422,47.3358275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Bauma</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Index">29</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Heinrich Gujerstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8494</SimpleData>
+		<SimpleData name="City">Bauma</SimpleData>
+		<SimpleData name="category">leisure</SimpleData>
+		<SimpleData name="type">sports_centre</SimpleData>
+		<SimpleData name="latlong">47.36802525,8.877648241794828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.87764824179483,47.36802525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Blumenau</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Index">30</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wülflingerstrasse 71</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5068626,8.7122083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7122083,47.5068626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Deutweg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Index">31</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pflanzschulstrasse 9</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.4945922,8.7401985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7401985,47.4945922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Elgg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Index">32</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">St. Gallerstrasse 16</SimpleData>
+		<SimpleData name="Zip Code">8353</SimpleData>
+		<SimpleData name="City">Elgg</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4983121,8.8615229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8615229,47.4983121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Fehraltorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Index">33</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Grundstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8320</SimpleData>
+		<SimpleData name="City">Fehraltorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3866132,8.755669084978738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.75566908497874,47.3866132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Hegi</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Index">34</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hintermühlenstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8409</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5042286,8.7717306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7717306,47.5042286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Hinwil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Index">35</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bachtelstrasse 12</SimpleData>
+		<SimpleData name="Zip Code">8340</SimpleData>
+		<SimpleData name="City">Hinwil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3003465,8.844491592582793</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.84449159258279,47.3003465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Hittnau</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Index">36</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Jakob Stutz-Strasse 75</SimpleData>
+		<SimpleData name="Zip Code">8335</SimpleData>
+		<SimpleData name="City">Hittnau</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3632596,8.8253509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8253509,47.3632596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Kleinandelfingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Index">37</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Weinlandstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8451</SimpleData>
+		<SimpleData name="City">Kleinandelfingen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.6017772,8.6885448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6885448,47.6017772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Kollbrunn</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Index">38</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Tösstalstrasse 24</SimpleData>
+		<SimpleData name="Zip Code">8483</SimpleData>
+		<SimpleData name="City">Kollbrunn</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4579651,8.7699768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7699768,47.4579651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Obertor</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Index">39</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Stadthausstrasse 31</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.500094,8.7319732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7319732,47.500094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Pfungen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Index">40</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Weiacherstrasse 1</SimpleData>
+		<SimpleData name="Zip Code">8422</SimpleData>
+		<SimpleData name="City">Pfungen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5173965,8.6498136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6498136,47.5173965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Töss</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Index">41</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürcherstrasse 102</SimpleData>
+		<SimpleData name="Zip Code">8406</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">library</SimpleData>
+		<SimpleData name="latlong">47.49173,8.7059014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7059014,47.49173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Turbenthal</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Index">42</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Tösstalstrasse 54</SimpleData>
+		<SimpleData name="Zip Code">8488</SimpleData>
+		<SimpleData name="City">Turbenthal</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">kiosk</SimpleData>
+		<SimpleData name="latlong">47.4386835,8.8447245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8447245,47.4386835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Wald ZH</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Index">43</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 20</SimpleData>
+		<SimpleData name="Zip Code">8636</SimpleData>
+		<SimpleData name="City">Wald ZH</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">residential</SimpleData>
+		<SimpleData name="latlong">47.2723738,8.912532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.912532,47.2723738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Wülflingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Index">44</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Lindenplatz 1</SimpleData>
+		<SimpleData name="Zip Code">8408</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5107051,8.693819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.693819,47.5107051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Männedorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Index">45</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 262</SimpleData>
+		<SimpleData name="Zip Code">8708</SimpleData>
+		<SimpleData name="City">Männedorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2530088,8.6957821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6957821,47.2530088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Index">46</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofpassage</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.3774096,8.538963269241194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.53896326924119,47.3774096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Meilen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Index">47</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rosengartenstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8706</SimpleData>
+		<SimpleData name="City">Meilen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.26831715,8.645417131917597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6454171319176,47.26831715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Affoltern am Albis</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Index">48</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Oberdorfstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8910</SimpleData>
+		<SimpleData name="City">Affoltern am Albis</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2783381,8.4538088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4538088,47.2783381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Effi-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Index">49</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Märtplatz 5</SimpleData>
+		<SimpleData name="Zip Code">8307</SimpleData>
+		<SimpleData name="City">Effretikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4284165,8.6856191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6856191,47.4284165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Embrach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Index">50</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bülacherstrasse 17</SimpleData>
+		<SimpleData name="Zip Code">8424</SimpleData>
+		<SimpleData name="City">Embrach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5100673,8.591808442376017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.59180844237602,47.5100673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Oberwinterthur</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Index">51</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Guggenbühlstrasse 1</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.510986,8.758822089705884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.75882208970588,47.510986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Pfäffikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Index">52</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Turmstrasse 9</SimpleData>
+		<SimpleData name="Zip Code">8330</SimpleData>
+		<SimpleData name="City">Pfäffikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3685372,8.7809413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7809413,47.3685372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Rosenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Index">53</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.5182658,8.7199822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7199822,47.5182658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Rüti</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Index">54</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bandwiesstrasse 6</SimpleData>
+		<SimpleData name="Zip Code">8630</SimpleData>
+		<SimpleData name="City">Rüti ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.25807075,8.84895563045178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.84895563045178,47.25807075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Seen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Index">55</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hinterdorfstrasse 40</SimpleData>
+		<SimpleData name="Zip Code">8405</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.485289,8.7627422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7627422,47.485289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MMM Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Index">56</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Niederhasli</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Index">57</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Dorfstrasse 20</SimpleData>
+		<SimpleData name="Zip Code">8155</SimpleData>
+		<SimpleData name="City">Niederhasli</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4799969,8.4852371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4852371,47.4799969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Oberengstringen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Index">58</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zentrum 2</SimpleData>
+		<SimpleData name="Zip Code">8102</SimpleData>
+		<SimpleData name="City">Oberengstringen</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">locality</SimpleData>
+		<SimpleData name="latlong">47.4086256,8.4625341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4625341,47.4086256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Opfikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Index">59</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Thurgauerstrasse 106</SimpleData>
+		<SimpleData name="Zip Code">8152</SimpleData>
+		<SimpleData name="City">Glattpark (Opfikon)</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4211326,8.557843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.557843,47.4211326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Index">60</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schachenstrasse 115</SimpleData>
+		<SimpleData name="Zip Code">8906</SimpleData>
+		<SimpleData name="City">Bonstetten</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3252981,8.4724139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4724139,47.3252981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Regensdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Index">61</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zentrum</SimpleData>
+		<SimpleData name="Zip Code">8105</SimpleData>
+		<SimpleData name="City">Regensdorf</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">neighbourhood</SimpleData>
+		<SimpleData name="latlong">47.4312281,8.4685466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4685466,47.4312281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Bülach Sonnenhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Index">62</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 28</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.520962,8.5398893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5398893,47.520962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Dietikon Löwencenter</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Index">63</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 28</SimpleData>
+		<SimpleData name="Zip Code">8953</SimpleData>
+		<SimpleData name="City">Dietikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4050955,8.4020814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4020814,47.4050955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Effi-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Index">64</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Märtplatz 5</SimpleData>
+		<SimpleData name="Zip Code">8307</SimpleData>
+		<SimpleData name="City">Effretikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4284165,8.6856191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6856191,47.4284165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Glattzentrum</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Index">65</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">MP Glattzentrum</SimpleData>
+		<SimpleData name="Zip Code">8304</SimpleData>
+		<SimpleData name="City">Wallisellen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">mall</SimpleData>
+		<SimpleData name="latlong">47.40825445,8.595607545520465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.59560754552047,47.40825445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Horgen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Index">66</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 24</SimpleData>
+		<SimpleData name="Zip Code">8810</SimpleData>
+		<SimpleData name="City">Horgen</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.2600702,8.597034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.597034,47.2600702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Kloten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Index">67</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kirchgasse 3</SimpleData>
+		<SimpleData name="Zip Code">8302</SimpleData>
+		<SimpleData name="City">Kloten</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.4503544,8.5823338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5823338,47.4503544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Meilen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Index">68</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rosengartenstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8706</SimpleData>
+		<SimpleData name="City">Meilen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.26831715,8.645417131917597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6454171319176,47.26831715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Index">69</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Oberwinterthur</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Index">70</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Guggenbühlstrasse 1</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.510986,8.758822089705884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.75882208970588,47.510986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Regensdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Index">71</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zentrum</SimpleData>
+		<SimpleData name="Zip Code">8105</SimpleData>
+		<SimpleData name="City">Regensdorf</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">neighbourhood</SimpleData>
+		<SimpleData name="latlong">47.4312281,8.4685466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4685466,47.4312281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Rosenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Index">72</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.5182658,8.7199822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7199822,47.5182658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Rüti</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Index">73</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bandwiesstrasse 6</SimpleData>
+		<SimpleData name="Zip Code">8630</SimpleData>
+		<SimpleData name="City">Rüti ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.25807075,8.84895563045178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.84895563045178,47.25807075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Seen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Index">74</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hinterdorfstrasse 40</SimpleData>
+		<SimpleData name="Zip Code">8405</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.485289,8.7627422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7627422,47.485289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Stäfa</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Index">75</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Goethestrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8712</SimpleData>
+		<SimpleData name="City">Stäfa</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2406357,8.7239602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7239602,47.2406357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Uster Illuster</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Index">76</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürichstrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8610</SimpleData>
+		<SimpleData name="City">Uster</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">detached</SimpleData>
+		<SimpleData name="latlong">47.3673562,8.696752649999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.69675265,47.3673562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Uster-West</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Index">77</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8610</SimpleData>
+		<SimpleData name="City">Uster</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3544624,8.7132591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7132591,47.3544624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Wädenswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Index">78</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Oberdorfstrasse 27-31</SimpleData>
+		<SimpleData name="Zip Code">8820</SimpleData>
+		<SimpleData name="City">Wädenswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">electronics</SimpleData>
+		<SimpleData name="latlong">47.2289013,8.6676896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6676896,47.2289013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Index">79</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Richterswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Index">80</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schützengass 4</SimpleData>
+		<SimpleData name="Zip Code">8805</SimpleData>
+		<SimpleData name="City">Richterswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.206499050000005,8.705450451010075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.70545045101007,47.20649905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Rümlang Hofwisen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Index">81</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hofwisenstrasse 40A</SimpleData>
+		<SimpleData name="Zip Code">8153</SimpleData>
+		<SimpleData name="City">Rümlang</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4507281,8.5374676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5374676,47.4507281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Rüschlikon Parkside</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Index">82</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürcherstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8803</SimpleData>
+		<SimpleData name="City">Rüschlikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3003679,8.5488069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5488069,47.3003679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Schlieren Kesslerplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Index">83</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Badenerstrasse 57</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3960944,8.4378172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4378172,47.3960944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Schlieren Zentrum</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Index">84</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Güterstrasse 5</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3985499,8.447102088751077</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.44710208875108,47.3985499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Stäfa</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Index">85</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Goethestrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8712</SimpleData>
+		<SimpleData name="City">Stäfa</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2406357,8.7239602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7239602,47.2406357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Adliswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Index">86</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Albisstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8134</SimpleData>
+		<SimpleData name="City">Adliswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3112966,8.5249665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5249665,47.3112966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Bülach Süd</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Index">87</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Feldstrasse 85</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5102979,8.5407826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5407826,47.5102979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Dübendorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Index">88</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Unterdorfstrasse 7</SimpleData>
+		<SimpleData name="Zip Code">8600</SimpleData>
+		<SimpleData name="City">Dübendorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3979897,8.617767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.617767,47.3979897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Hardbrücke</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Index">89</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">boundary</SimpleData>
+		<SimpleData name="type">administrative</SimpleData>
+		<SimpleData name="latlong">47.3723941,8.5423328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5423328,47.3723941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Index">90</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Rosenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Index">91</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.5182658,8.7199822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7199822,47.5182658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Rüti</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Index">92</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bandwiesstrasse 6</SimpleData>
+		<SimpleData name="Zip Code">8630</SimpleData>
+		<SimpleData name="City">Rüti ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.25807075,8.84895563045178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.84895563045178,47.25807075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Thalwil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Index">93</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 130</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2942957,8.5639941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5639941,47.2942957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-Away Uster West</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Index">94</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8610</SimpleData>
+		<SimpleData name="City">Uster</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3544624,8.7132591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7132591,47.3544624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Zumikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Index">95</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Dorfstrasse 17</SimpleData>
+		<SimpleData name="Zip Code">8126</SimpleData>
+		<SimpleData name="City">Zumikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.336624,8.6191373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6191373,47.336624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Index">96</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Thalwil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Index">97</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 130</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2942957,8.5639941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5639941,47.2942957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Urdorf</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Index">98</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 87</SimpleData>
+		<SimpleData name="Zip Code">8902</SimpleData>
+		<SimpleData name="City">Urdorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3849582,8.4221367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4221367,47.3849582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Uster Illuster</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Index">99</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürichstrasse 14</SimpleData>
+		<SimpleData name="Zip Code">8610</SimpleData>
+		<SimpleData name="City">Uster</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">hotel</SimpleData>
+		<SimpleData name="latlong">47.349876249999994,8.71572702784952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.71572702784952,47.34987625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Wädenswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Index">100</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Oberdorfstrasse 27-31</SimpleData>
+		<SimpleData name="Zip Code">8820</SimpleData>
+		<SimpleData name="City">Wädenswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">electronics</SimpleData>
+		<SimpleData name="latlong">47.2289013,8.6676896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6676896,47.2289013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Wädenswil Zürisee Center</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Index">101</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rütistrasse 1</SimpleData>
+		<SimpleData name="Zip Code">8820</SimpleData>
+		<SimpleData name="City">Wädenswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2353206,8.6375562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6375562,47.2353206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Wallisellen Bahnhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Index">102</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 30</SimpleData>
+		<SimpleData name="Zip Code">8304</SimpleData>
+		<SimpleData name="City">Wallisellen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4135249,8.5918701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5918701,47.4135249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Witikon City Farming</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Index">103</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Witikonerstrasse 293</SimpleData>
+		<SimpleData name="Zip Code">8053</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3592095,8.5856168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5856168,47.3592095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Zollikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Index">104</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rotfluhstrasse 100</SimpleData>
+		<SimpleData name="Zip Code">8702</SimpleData>
+		<SimpleData name="City">Zollikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.33780715,8.576042678800672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.57604267880067,47.33780715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Zumikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Index">105</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Dorfstrasse 17</SimpleData>
+		<SimpleData name="Zip Code">8126</SimpleData>
+		<SimpleData name="City">Zumikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.336624,8.6191373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6191373,47.336624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Filiale</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Index">106</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">8180 Bülach</SimpleData>
+		<SimpleData name="category">boundary</SimpleData>
+		<SimpleData name="type">administrative</SimpleData>
+		<SimpleData name="latlong">47.5172321,8.5407118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5407118,47.5172321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Genossenschaft Zürich</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Index">107</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pfingstweidstrasse 101</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3902809,8.5090047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5090047,47.3902809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Genossenschafts-Bund</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Index">108</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Grünaustrasse 23</SimpleData>
+		<SimpleData name="Zip Code">8953</SimpleData>
+		<SimpleData name="City">Dietikon</SimpleData>
+		<SimpleData name="category">office</SimpleData>
+		<SimpleData name="type">company</SimpleData>
+		<SimpleData name="latlong">47.4113111,8.4034601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4034601,47.4113111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Genossenschafts-Bund</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Index">109</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Express Puls 5</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Index">110</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hardturmstrasse 11</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">convenience</SimpleData>
+		<SimpleData name="latlong">47.3912062,8.5185804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5185804,47.3912062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Altstetten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Index">111</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Altstetterstrasse 145</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3882833,8.4875671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4875671,47.3882833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Brunaupark</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Index">112</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Giesshübelstrasse 65</SimpleData>
+		<SimpleData name="Zip Code">8045</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.358222,8.5179836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5179836,47.358222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant City</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Index">113</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31-35</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3752549,8.5361073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361073,47.3752549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Herdern Topolino</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Index">114</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pfingstweidstrasse 101</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3902809,8.5090047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5090047,47.3902809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Limmatplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Index">115</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Oerlikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Index">116</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hofwiesenstrasse 350</SimpleData>
+		<SimpleData name="Zip Code">8050</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.4104775,8.5426205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5426205,47.4104775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Schwamendingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Index">117</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 524</SimpleData>
+		<SimpleData name="Zip Code">8051</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.403979,8.5727162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5727162,47.403979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Stadelhofen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Index">118</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Falkenstrasse 19-21</SimpleData>
+		<SimpleData name="Zip Code">8008</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3656781,8.5480408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5480408,47.3656781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Wiedikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Index">119</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 320</SimpleData>
+		<SimpleData name="Zip Code">8055</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.370239,8.508715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.508715,47.370239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Restaurant Zürich-Affoltern</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Index">120</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Jonas-Furrer-Strasse 21</SimpleData>
+		<SimpleData name="Zip Code">8046</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4204198,8.5082174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5082174,47.4204198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Rigiplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Index">121</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8006</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">retail</SimpleData>
+		<SimpleData name="latlong">47.38611015,8.548594977970476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.54859497797048,47.38611015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Schmiede-Wiedikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Index">122</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 140</SimpleData>
+		<SimpleData name="Zip Code">8003</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3701218,8.5200924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5200924,47.3701218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Stockerstrasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Index">123</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Stockerstrasse 47</SimpleData>
+		<SimpleData name="Zip Code">8002</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">convenience</SimpleData>
+		<SimpleData name="latlong">47.3682406,8.5342265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5342265,47.3682406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Hauptbahnhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Index">124</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofpassage</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.3774096,8.538963269241194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.53896326924119,47.3774096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Wengihof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Index">125</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wengistrasse 7</SimpleData>
+		<SimpleData name="Zip Code">8004</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3748981,8.5234086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5234086,47.3748981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take-away Wollishofen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Index">126</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Etzelstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8038</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3447487,8.5299814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5299814,47.3447487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MMM Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Index">127</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros melectronics Altstetten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Index">128</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Altstetterstrasse 145</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3882833,8.4875671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4875671,47.3882833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Museum für Gegenwartskunst</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Index">129</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 270</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3894782,8.5247131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5247131,47.3894782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Index">130</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 12</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">hardware</SimpleData>
+		<SimpleData name="latlong">47.5197751,8.5403333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5403333,47.5197751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Index">131</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Gotthardstrasse 13</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.294517,8.5646303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5646303,47.294517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Index">132</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürichstrasse 12a</SimpleData>
+		<SimpleData name="Zip Code">8610</SimpleData>
+		<SimpleData name="City">Uster</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.3494672,8.716065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.716065,47.3494672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Index">133</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Oberdorfstrasse 22</SimpleData>
+		<SimpleData name="Zip Code">8820</SimpleData>
+		<SimpleData name="City">Wädenswil</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.2288775,8.668608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.668608,47.2288775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Index">134</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 17</SimpleData>
+		<SimpleData name="Zip Code">8304</SimpleData>
+		<SimpleData name="City">Wallisellen</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">atm</SimpleData>
+		<SimpleData name="latlong">47.4127928,8.5843316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5843316,47.4127928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Index">135</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Richtiarkade 13</SimpleData>
+		<SimpleData name="Zip Code">8304</SimpleData>
+		<SimpleData name="City">Wallisellen</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.4104495,8.5956403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5956403,47.4104495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Index">136</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Unterer Graben 35</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.5001571,8.7307673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7307673,47.5001571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Index">137</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Seidengasse 12</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.3750941,8.5376361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5376361,47.3750941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Index">138</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Stockerstrasse 41</SimpleData>
+		<SimpleData name="Zip Code">8002</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.3674572,8.5345148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5345148,47.3674572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Index">139</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Index">140</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Badenerstrasse 670</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.3877156,8.4869909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4869909,47.3877156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Index">141</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Nansenstrasse 21</SimpleData>
+		<SimpleData name="Zip Code">8050</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.4103316,8.5441467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5441467,47.4103316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Catering Services</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Index">142</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pfingstweidstrasse 101</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3902809,8.5090047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5090047,47.3902809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Ferien - MTCH AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Index">144</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Sägereistrasse 20</SimpleData>
+		<SimpleData name="Zip Code">8152</SimpleData>
+		<SimpleData name="City">Glattbrugg</SimpleData>
+		<SimpleData name="category">emergency</SimpleData>
+		<SimpleData name="type">defibrillator</SimpleData>
+		<SimpleData name="latlong">47.431836,8.5597846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5597846,47.431836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Genossenschaft Zürich</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Index">145</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Jonas-Furrer-Strasse 21</SimpleData>
+		<SimpleData name="Zip Code">8046</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4204198,8.5082174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5082174,47.4204198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIGROS Home-Service</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Index">146</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 14</SimpleData>
+		<SimpleData name="Zip Code">8604</SimpleData>
+		<SimpleData name="City">Volketswil</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">secondary</SimpleData>
+		<SimpleData name="latlong">47.3809002,8.676663813997143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67666381399714,47.3809002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Langnau am Albis</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Index">147</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hintere Grundstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8135</SimpleData>
+		<SimpleData name="City">Langnau am Albis</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2913031,8.5377603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5377603,47.2913031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros M Seuzach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Index">148</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 5</SimpleData>
+		<SimpleData name="Zip Code">8472</SimpleData>
+		<SimpleData name="City">Seuzach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.535521200000005,8.730379404755336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.73037940475534,47.5355212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Schlieren Rietbach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Index">149</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rietbachstrasse 14</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4007491,8.4348439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4348439,47.4007491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros MM Volketswil</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Index">150</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Zentrum 18</SimpleData>
+		<SimpleData name="Zip Code">8604</SimpleData>
+		<SimpleData name="City">Volketswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3881782,8.6806971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6806971,47.3881782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Sihlpassage</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Index">151</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Passage Sihlquai</SimpleData>
+		<SimpleData name="Zip Code">8004</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">footway</SimpleData>
+		<SimpleData name="latlong">47.37892035,8.536415858028198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5364158580282,47.37892035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Supermarkt Kreuzplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Index">152</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kreuzplatz 20</SimpleData>
+		<SimpleData name="Zip Code">8032</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.36502305,8.554446621457387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.55444662145739,47.36502305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Grüzepark I</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Index">153</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 44</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">fast_food</SimpleData>
+		<SimpleData name="latlong">47.4974593,8.761694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.761694,47.4974593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros Take Away Kreuzplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Index">154</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kreuzplatz 20</SimpleData>
+		<SimpleData name="Zip Code">8008</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.36502305,8.554446621457387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.55444662145739,47.36502305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Verteilbetrieb</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Index">155</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hölzliwisenstrasse 12</SimpleData>
+		<SimpleData name="Zip Code">8604</SimpleData>
+		<SimpleData name="City">Volketswil</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.37796555,8.677277813501295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67727781350129,47.37796555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Migros-Verteilbetrieb Neuendorf AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Index">156</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 14</SimpleData>
+		<SimpleData name="Zip Code">8604</SimpleData>
+		<SimpleData name="City">Volketswil</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">secondary</SimpleData>
+		<SimpleData name="latlong">47.3809002,8.676663813997143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67666381399714,47.3809002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Albisriederplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Index">157</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Badenerstrasse 378</SimpleData>
+		<SimpleData name="Zip Code">8004</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">tertiary</SimpleData>
+		<SimpleData name="latlong">47.3797572,8.5071278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5071278,47.3797572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MM Altstetten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Index">158</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Altstetterstrasse 145</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3882833,8.4875671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4875671,47.3882833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blumen Bellaria Blumen-Filiale</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Index">159</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Mutschellenstrasse 137</SimpleData>
+		<SimpleData name="Zip Code">8038</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">restaurant</SimpleData>
+		<SimpleData name="latlong">47.3468443,8.5287676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5287676,47.3468443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brunaupark</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Index">160</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Giesshübelstrasse 65</SimpleData>
+		<SimpleData name="Zip Code">8045</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.358222,8.5179836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5179836,47.358222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Index">161</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31-35</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3752549,8.5361073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361073,47.3752549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Enge</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Index">162</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Tessinerplatz 10</SimpleData>
+		<SimpleData name="Zip Code">8002</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3640724,8.5309446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5309446,47.3640724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forch-Burgwies</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Index">163</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Forchstrasse 260</SimpleData>
+		<SimpleData name="Zip Code">8008</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3576104,8.5713693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5713693,47.3576104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hauptbahnhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Index">164</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofpassage</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.3774096,8.538963269241194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.53896326924119,47.3774096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herdern und Outlet</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Index">165</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pfingstweidstrasse 101</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3902809,8.5090047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5090047,47.3902809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Höngg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Index">166</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Regensdorferstrasse 20</SimpleData>
+		<SimpleData name="Zip Code">8049</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4037862,8.4973179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4973179,47.4037862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Höschgasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Index">167</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Seefeldstrasse 111-113</SimpleData>
+		<SimpleData name="Zip Code">8008</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3583667,8.5540739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5540739,47.3583667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kreuzplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Index">168</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kreuzplatz 83</SimpleData>
+		<SimpleData name="Zip Code">8032</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">pedestrian</SimpleData>
+		<SimpleData name="latlong">47.36502305,8.554446621457387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.55444662145739,47.36502305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MM Limmatplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Index">169</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oerlikon Neumarkt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Index">170</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hofwiesenstrasse 350-354</SimpleData>
+		<SimpleData name="Zip Code">8050</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4105711,8.5430953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5430953,47.4105711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pünt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Index">171</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Albisriederstrasse 365</SimpleData>
+		<SimpleData name="Zip Code">8047</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.37509575,8.485573720821597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4855737208216,47.37509575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rigiplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Index">172</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 2-4</SimpleData>
+		<SimpleData name="Zip Code">8006</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3859928,8.5486931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5486931,47.3859928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schaffhauserplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Index">173</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 75</SimpleData>
+		<SimpleData name="Zip Code">8057</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3925525,8.5384284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5384284,47.3925525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schmiede-Wiedikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Index">174</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 140</SimpleData>
+		<SimpleData name="Zip Code">8003</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3701218,8.5200924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5200924,47.3701218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schwamendingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Index">175</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 524</SimpleData>
+		<SimpleData name="Zip Code">8051</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.403979,8.5727162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5727162,47.403979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seebach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Index">176</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 470</SimpleData>
+		<SimpleData name="Zip Code">8052</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4194826,8.5484516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5484516,47.4194826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadelhofen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Index">177</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Falkenstrasse 19-21</SimpleData>
+		<SimpleData name="Zip Code">8008</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3656781,8.5480408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5480408,47.3656781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stockerstrasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Index">178</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Stockerstrasse 47</SimpleData>
+		<SimpleData name="Zip Code">8002</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">convenience</SimpleData>
+		<SimpleData name="latlong">47.3682406,8.5342265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5342265,47.3682406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toblerplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Index">179</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Toblerstrasse 73</SimpleData>
+		<SimpleData name="Zip Code">8044</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3793846,8.5594679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5594679,47.3793846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wengihof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Index">180</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wengistrasse 7</SimpleData>
+		<SimpleData name="Zip Code">8004</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3748981,8.5234086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5234086,47.3748981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wiedikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Index">181</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 320</SimpleData>
+		<SimpleData name="Zip Code">8055</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.370239,8.508715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.508715,47.370239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wipkingen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Index">182</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Scheffelstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8037</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3937084,8.5292465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5292465,47.3937084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Witikon-Zentrum</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Index">183</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Witikonerstrasse 293</SimpleData>
+		<SimpleData name="Zip Code">8053</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3592095,8.5856168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5856168,47.3592095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wollishofen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Index">184</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Etzelstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8038</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3447487,8.5299814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5299814,47.3447487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zürich-Affoltern</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Index">185</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Jonas-Furrer-Strasse 21</SimpleData>
+		<SimpleData name="Zip Code">8046</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4204198,8.5082174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5082174,47.4204198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bauwesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Index">186</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">boundary</SimpleData>
+		<SimpleData name="type">administrative</SimpleData>
+		<SimpleData name="latlong">47.3723941,8.5423328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5423328,47.3723941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaimug Box Shopville Zürich Hauptbahnhof</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Index">187</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">boundary</SimpleData>
+		<SimpleData name="type">administrative</SimpleData>
+		<SimpleData name="latlong">47.3723941,8.5423328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5423328,47.3723941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX Brunaupark</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Index">188</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Giesshübelstrasse 65</SimpleData>
+		<SimpleData name="Zip Code">8045</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.358222,8.5179836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5179836,47.358222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX City</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Index">189</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31-35</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3752549,8.5361073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361073,47.3752549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outdoor by SportXX Löwenstrasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Index">190</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3750207,8.5361724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361724,47.3750207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outdoor by SportXX Sihlcity</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Index">191</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kalanderplatz 1</SimpleData>
+		<SimpleData name="Zip Code">8045</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">doctors</SimpleData>
+		<SimpleData name="latlong">47.3576906,8.5236565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5236565,47.3576906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Melectronics City</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Index">192</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31-35</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3752549,8.5361073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361073,47.3752549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Limmatplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Index">193</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Oerlikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Index">194</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hofwiesenstrasse 350</SimpleData>
+		<SimpleData name="Zip Code">8050</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.4104775,8.5426205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5426205,47.4104775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do it + Garden Brunaupark</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Index">195</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Giesshübelstrasse 65</SimpleData>
+		<SimpleData name="Zip Code">8045</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.358222,8.5179836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5179836,47.358222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Micasa Home</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Index">196</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31-35</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3752549,8.5361073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361073,47.3752549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Koordinationsstelle der Klubschulen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Index">197</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Josefstrasse 214</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3872757,8.523244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.523244,47.3872757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kulturprozent MGB</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Index">198</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Josefstrasse 214</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3872757,8.523244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.523244,47.3872757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Logistik Transport</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Index">199</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Josefstrasse 214</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3872757,8.523244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.523244,47.3872757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hotelplan AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Index">201</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ausgleichskasse der Migros-Betriebe</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Index">203</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wiesenstrasse 15</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3995333,8.4425945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4425945,47.3995333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>M-Express Migros</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Index">204</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hohlstrasse 600</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">convenience</SimpleData>
+		<SimpleData name="latlong">47.3913758,8.4877995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4877995,47.3913758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Index">205</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Meierwiesenstrasse 20</SimpleData>
+		<SimpleData name="Zip Code">8107</SimpleData>
+		<SimpleData name="City">Buchs ZH</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.4562028,8.4400792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4400792,47.4562028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Index">206</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Huebwiesenstrasse 26b</SimpleData>
+		<SimpleData name="Zip Code">8954</SimpleData>
+		<SimpleData name="City">Geroldswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4214003,8.4115391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4115391,47.4214003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Index">207</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Seestrasse 288</SimpleData>
+		<SimpleData name="Zip Code">8810</SimpleData>
+		<SimpleData name="City">Horgen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2546986,8.6121793</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6121793,47.2546986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Index">208</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Paradiesstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8038</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3347288,8.529589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.529589,47.3347288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Index">209</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Letzigraben 239</SimpleData>
+		<SimpleData name="Zip Code">8047</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3704893,8.4927577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4927577,47.3704893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migros Partner</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Index">210</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Grünauring 37</SimpleData>
+		<SimpleData name="Zip Code">8064</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.3962059,8.4865605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4865605,47.3962059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klubschule Migros</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Index">211</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klubschule Migros</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Index">212</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rudolfstrasse 11</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">office</SimpleData>
+		<SimpleData name="type">educational_institution</SimpleData>
+		<SimpleData name="latlong">47.4999409,8.7222864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7222864,47.4999409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klubschule Migros Altstetten</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Index">213</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Vulkanplatz 8</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3917581,8.4917717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4917717,47.3917581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klubschule Migros Limmatplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Index">214</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmatstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.3857517,8.531279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.531279,47.3857517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klubschule Migros Oerlikon</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Index">215</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hofwiesenstrasse 350</SimpleData>
+		<SimpleData name="Zip Code">8050</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">school</SimpleData>
+		<SimpleData name="latlong">47.4104775,8.5426205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5426205,47.4104775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinovital Horgen: TCM - Akupunktur - Chinesische Medizin</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Index">216</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 18</SimpleData>
+		<SimpleData name="Zip Code">8810</SimpleData>
+		<SimpleData name="City">Horgen</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.322660549999995,8.54878615103405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.54878615103405,47.32266055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOI Migrospartner Leimbach ZH</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Index">217</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Ankenweid 10</SimpleData>
+		<SimpleData name="Zip Code">8041</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.329774,8.5152768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5152768,47.329774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lärche - Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Index">218</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schachenstrasse 115</SimpleData>
+		<SimpleData name="Zip Code">8906</SimpleData>
+		<SimpleData name="City">Bonstetten</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3252981,8.4724139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4724139,47.3252981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orinad Coiffure</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Index">219</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 320</SimpleData>
+		<SimpleData name="Zip Code">8055</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.370239,8.508715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.508715,47.370239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Index">220</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Albisstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8134</SimpleData>
+		<SimpleData name="City">Adliswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3112966,8.5249665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5249665,47.3112966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Index">222</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Hintere Grundstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8135</SimpleData>
+		<SimpleData name="City">Langnau am Albis</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2913031,8.5377603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5377603,47.2913031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Index">223</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rosengartenstrasse 10</SimpleData>
+		<SimpleData name="Zip Code">8706</SimpleData>
+		<SimpleData name="City">Meilen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.26831715,8.645417131917597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6454171319176,47.26831715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Index">224</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schützengass 4</SimpleData>
+		<SimpleData name="Zip Code">8805</SimpleData>
+		<SimpleData name="City">Richterswil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.206499050000005,8.705450451010075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.70545045101007,47.20649905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Index">225</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Badenerstrasse 57</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3960944,8.4378172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4378172,47.3960944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Index">226</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Winterthurerstrasse 5</SimpleData>
+		<SimpleData name="Zip Code">8472</SimpleData>
+		<SimpleData name="City">Seuzach</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.535521200000005,8.730379404755336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.73037940475534,47.5355212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Index">227</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schwandelstrasse</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">tertiary</SimpleData>
+		<SimpleData name="latlong">47.2945665,8.5639735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5639735,47.2945665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Index">228</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 22</SimpleData>
+		<SimpleData name="Zip Code">8636</SimpleData>
+		<SimpleData name="City">Wald ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2748374,8.9147401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.9147401,47.2748374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>T.K.Kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Index">229</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Rütistrasse 16</SimpleData>
+		<SimpleData name="Zip Code">8634</SimpleData>
+		<SimpleData name="City">Hombrechtikon</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.25221125,8.770133056949563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.77013305694956,47.25221125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valora Schweiz AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Index">230</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürcherstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8803</SimpleData>
+		<SimpleData name="City">Rüschlikon</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3003679,8.5488069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5488069,47.3003679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zebra Fashion AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Index">231</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Landstrasse 130</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.2942957,8.5639941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5639941,47.2942957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Büli Apotheke Parfumerie</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Index">232</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 21</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">restaurant</SimpleData>
+		<SimpleData name="latlong">47.5208992,8.5394077</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5394077,47.5208992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Die Privatgärtner GmbH</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Index">233</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Limmattalstrasse 247</SimpleData>
+		<SimpleData name="Zip Code">8049</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.40214775,8.493511881005222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.49351188100522,47.40214775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinocare Praxis für chinesische Medizin</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Index">234</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Marktgasse 7</SimpleData>
+		<SimpleData name="Zip Code">8600</SimpleData>
+		<SimpleData name="City">Dübendorf</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.39785175,8.617435805342385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.61743580534239,47.39785175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOA Büchi Optik Affoltern GmbH</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Index">235</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Alte Dorfstrasse 21</SimpleData>
+		<SimpleData name="Zip Code">8910</SimpleData>
+		<SimpleData name="City">Affoltern am Albis</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">optician</SimpleData>
+		<SimpleData name="latlong">47.2786013,8.4539197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4539197,47.2786013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holliger Franziska</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Index">236</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Gotthardstrasse 13</SimpleData>
+		<SimpleData name="Zip Code">8800</SimpleData>
+		<SimpleData name="City">Thalwil</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.294517,8.5646303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5646303,47.294517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Micarna Zürich</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Index">237</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Pfingstweidstrasse 101</SimpleData>
+		<SimpleData name="Zip Code">8005</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">tourism</SimpleData>
+		<SimpleData name="type">museum</SimpleData>
+		<SimpleData name="latlong">47.3902809,8.5090047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5090047,47.3902809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pally Thomas</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Index">238</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Grünen Hof 2</SimpleData>
+		<SimpleData name="Zip Code">8133</SimpleData>
+		<SimpleData name="City">Esslingen</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">residential</SimpleData>
+		<SimpleData name="latlong">47.2848467,8.7133471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7133471,47.2848467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Physiotherapie am Lindenplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Index">239</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Altstetterstrasse 142</SimpleData>
+		<SimpleData name="Zip Code">8048</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.388297,8.4865668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4865668,47.388297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosengarten Praxis</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Index">240</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 231</SimpleData>
+		<SimpleData name="Zip Code">8623</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">doctors</SimpleData>
+		<SimpleData name="latlong">47.3305486,8.8049419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8049419,47.3305486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schweiz. Patenschaft f. Berggemeinden</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Index">241</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Asylstrasse 74</SimpleData>
+		<SimpleData name="Zip Code">8032</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">building</SimpleData>
+		<SimpleData name="type">yes</SimpleData>
+		<SimpleData name="latlong">47.366946850000005,8.561070752881315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.56107075288132,47.36694685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. med. dent. Zahnarztpraxis am Lindenplatz</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Index">242</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Lindenplatz 1</SimpleData>
+		<SimpleData name="Zip Code">8408</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.5107051,8.693819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.693819,47.5107051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>T.K.Kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Index">244</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Feldbachstrasse 4</SimpleData>
+		<SimpleData name="Zip Code">8634</SimpleData>
+		<SimpleData name="City">Hombrechtikon</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">atm</SimpleData>
+		<SimpleData name="latlong">47.2514126,8.7658112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7658112,47.2514126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alnatura Bio-Supermarkt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Index">245</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Kappenbühlweg 5</SimpleData>
+		<SimpleData name="Zip Code">8049</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4033485,8.4979498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4979498,47.4033485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alnatura Bio-Supermarkt Bülach</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Index">246</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 28</SimpleData>
+		<SimpleData name="Zip Code">8180</SimpleData>
+		<SimpleData name="City">Bülach</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bank</SimpleData>
+		<SimpleData name="latlong">47.520962,8.5398893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5398893,47.520962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alnatura Bio-Supermarkt Winterthur-Grüze</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Index">247</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 11</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4967387,8.7532306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7532306,47.4967387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alnatura Bio-Supermarkt Zürich-City</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Index">248</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Löwenstrasse 31</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3750207,8.5361724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5361724,47.3750207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do It + Garden Fachmarkt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Index">249</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Werkstrasse 43</SimpleData>
+		<SimpleData name="Zip Code">8630</SimpleData>
+		<SimpleData name="City">Rüti ZH</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">bar</SimpleData>
+		<SimpleData name="latlong">47.2533514,8.8530641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.8530641,47.2533514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do It + Garden Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Index">250</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do It + Garden Pfungen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Index">251</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Wanistrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8422</SimpleData>
+		<SimpleData name="City">Pfungen</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">doityourself</SimpleData>
+		<SimpleData name="latlong">47.51865705,8.650992180555471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.65099218055547,47.51865705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do It + Garden Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Index">252</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Index">253</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Rosenberg</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Index">254</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Schaffhauserstrasse 152</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">post_office</SimpleData>
+		<SimpleData name="latlong">47.5182658,8.7199822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7199822,47.5182658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Rüti</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Index">255</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bandwiesstrasse 6</SimpleData>
+		<SimpleData name="Zip Code">8630</SimpleData>
+		<SimpleData name="City">Rüti ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.25807075,8.84895563045178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.84895563045178,47.25807075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Index">256</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Micasa Winterthur</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Index">257</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milandia</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Index">258</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Grossriet 1</SimpleData>
+		<SimpleData name="Zip Code">8606</SimpleData>
+		<SimpleData name="City">Greifensee</SimpleData>
+		<SimpleData name="category">leisure</SimpleData>
+		<SimpleData name="type">sports_centre</SimpleData>
+		<SimpleData name="latlong">47.37661865,8.672236056999548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67223605699955,47.37661865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX Winterthur</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Index">259</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Zürcherstrasse 1+3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">primary</SimpleData>
+		<SimpleData name="latlong">47.4780334,8.7043553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7043553,47.4780334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX Züri-Oberland-Märt</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Index">260</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 151</SimpleData>
+		<SimpleData name="Zip Code">8620</SimpleData>
+		<SimpleData name="City">Wetzikon ZH</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.3280334,8.7997978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.7997978,47.3280334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX Neuwiesen</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Index">261</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bonaparty</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Index">262</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Strickerstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8400</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4992228,8.72106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.72106,47.4992228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DROPA Drogerie Apotheke</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Index">263</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">In Böden 174</SimpleData>
+		<SimpleData name="Zip Code">8046</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">doctors</SimpleData>
+		<SimpleData name="latlong">47.4201299,8.5079236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5079236,47.4201299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitnesspark Milandia</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Index">264</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Im Grossriet 1</SimpleData>
+		<SimpleData name="Zip Code">8606</SimpleData>
+		<SimpleData name="City">Greifensee</SimpleData>
+		<SimpleData name="category">leisure</SimpleData>
+		<SimpleData name="type">sports_centre</SimpleData>
+		<SimpleData name="latlong">47.37661865,8.672236056999548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.67223605699955,47.37661865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitnesspark Münstergasse</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Index">265</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Blaufahnenstrasse 3</SimpleData>
+		<SimpleData name="Zip Code">8001</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">place</SimpleData>
+		<SimpleData name="type">house</SimpleData>
+		<SimpleData name="latlong">47.3709619,8.5451201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.5451201,47.3709619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Index">266</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Güterstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8952</SimpleData>
+		<SimpleData name="City">Schlieren</SimpleData>
+		<SimpleData name="category">highway</SimpleData>
+		<SimpleData name="type">residential</SimpleData>
+		<SimpleData name="latlong">47.3989627,8.4476593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4476593,47.3989627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>k kiosk</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Index">267</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Bahnhofstrasse 41</SimpleData>
+		<SimpleData name="Zip Code">8636</SimpleData>
+		<SimpleData name="City">Wald ZH</SimpleData>
+		<SimpleData name="category">railway</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="latlong">47.2727268,8.9139616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.9139616,47.2727268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>melectronics Grüzepark I</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Index">268</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 44</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">fast_food</SimpleData>
+		<SimpleData name="latlong">47.4974593,8.761694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.761694,47.4974593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Micasa Winterthur - Grüzepark II</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Index">269</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 43</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">fuel</SimpleData>
+		<SimpleData name="latlong">47.49835935,8.76230204116113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.76230204116113,47.49835935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MyShoes</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Index">270</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Ruchwiesenstrasse 2</SimpleData>
+		<SimpleData name="Zip Code">8157</SimpleData>
+		<SimpleData name="City">Dielsdorf</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.4804478,8.4643849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.4643849,47.4804478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SportXX Grüzepark I</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Index">271</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Industriestrasse 44</SimpleData>
+		<SimpleData name="Zip Code">8404</SimpleData>
+		<SimpleData name="City">Winterthur</SimpleData>
+		<SimpleData name="category">amenity</SimpleData>
+		<SimpleData name="type">fast_food</SimpleData>
+		<SimpleData name="latlong">47.4974593,8.761694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.761694,47.4974593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tschümperlin &amp; Co AG</name>
+	<ExtendedData><SchemaData schemaUrl="#current_Migros_branches">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Index">272</SimpleData>
+		<SimpleData name="keyword">Migros</SimpleData>
+		<SimpleData name="Address">Birmensdorferstrasse 320</SimpleData>
+		<SimpleData name="Zip Code">8055</SimpleData>
+		<SimpleData name="City">Zürich</SimpleData>
+		<SimpleData name="category">shop</SimpleData>
+		<SimpleData name="type">supermarket</SimpleData>
+		<SimpleData name="latlong">47.370239,8.508715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.508715,47.370239</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
