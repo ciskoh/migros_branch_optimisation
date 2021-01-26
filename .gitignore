@@ -23,3 +23,7 @@ ipython_config.py
 
 # data 
 */input_data/*
+
+*/output/*
+
+*/extra/*
